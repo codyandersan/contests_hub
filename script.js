@@ -38,7 +38,7 @@ const run = async ()=> {
         })
 
         holder.innerHTML += `
-        <div class="card mx-3 my-3" style="width: 500px;">
+        <div class="card mx-3 my-3" style="width: 250px;">
         <img src="${contest_image}" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title text-center">${contest_name}</h5>
